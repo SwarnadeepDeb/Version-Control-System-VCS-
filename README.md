@@ -127,4 +127,4 @@ This creates a `.VCS` folder in your current directory, containing the necessary
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
