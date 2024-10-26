@@ -3,6 +3,8 @@
 
 A lightweight version control system implemented in Node.js that mimics basic functionalities of popular systems like Git. It allows for file tracking, staging, committing, and viewing of file differences between commits.
 
+![Version Control System (VCS)](images/ProjectImage.png)
+
 ## Features
 
 - **Initialize Repository**: Creates a `.VCS` directory to store commits and object data.
